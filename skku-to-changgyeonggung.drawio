@@ -1,1 +1,203 @@
-<mxfile host="app.diagrams.net" modified="2022-12-03T09:22:12.776Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="OsscPRwqqDgrRGKdOVMo" type="github"><diagram id="GkEj958eFOYTP2bw_aan">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-03T09:39:06.505Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="XylA0OisxRXfWafNGPw9" type="github">
+  <diagram id="lXkE4lG7cgBR9JIsJHmm" name="페이지-1">
+    <mxGraphModel dx="1299" dy="869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OgAkdvKX0kVkj8nFm4jw-12" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.625;entryY=0;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="OgAkdvKX0kVkj8nFm4jw-1" target="OgAkdvKX0kVkj8nFm4jw-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OgAkdvKX0kVkj8nFm4jw-13" value="도보 4분" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="OgAkdvKX0kVkj8nFm4jw-12">
+          <mxGeometry x="-0.2922" y="-2" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OgAkdvKX0kVkj8nFm4jw-18" value="도보 20분" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="OgAkdvKX0kVkj8nFm4jw-1" target="OgAkdvKX0kVkj8nFm4jw-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="200" />
+              <mxPoint x="90" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OgAkdvKX0kVkj8nFm4jw-23" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.4;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=10;" edge="1" parent="1" source="OgAkdvKX0kVkj8nFm4jw-1" target="OgAkdvKX0kVkj8nFm4jw-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OgAkdvKX0kVkj8nFm4jw-1" value="성균관대 중도" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OgAkdvKX0kVkj8nFm4jw-2" value="창경궁" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OgAkdvKX0kVkj8nFm4jw-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="OgAkdvKX0kVkj8nFm4jw-3" target="OgAkdvKX0kVkj8nFm4jw-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OgAkdvKX0kVkj8nFm4jw-14" value="버스 4분" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="OgAkdvKX0kVkj8nFm4jw-8">
+          <mxGeometry x="-0.3" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OgAkdvKX0kVkj8nFm4jw-3" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;명륜시장.성대후문&lt;br&gt;01531&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="170" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OgAkdvKX0kVkj8nFm4jw-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="OgAkdvKX0kVkj8nFm4jw-4" target="OgAkdvKX0kVkj8nFm4jw-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OgAkdvKX0kVkj8nFm4jw-15" value="도보 1분" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="OgAkdvKX0kVkj8nFm4jw-9">
+          <mxGeometry x="0.11" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OgAkdvKX0kVkj8nFm4jw-46" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.56;entryY=0.058;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=10;" edge="1" parent="1" source="OgAkdvKX0kVkj8nFm4jw-4" target="OgAkdvKX0kVkj8nFm4jw-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OgAkdvKX0kVkj8nFm4jw-4" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;혜화우체국&lt;br&gt;&lt;/span&gt;01543" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="310" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OgAkdvKX0kVkj8nFm4jw-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="OgAkdvKX0kVkj8nFm4jw-5" target="OgAkdvKX0kVkj8nFm4jw-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OgAkdvKX0kVkj8nFm4jw-16" value="버스 2분" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="OgAkdvKX0kVkj8nFm4jw-10">
+          <mxGeometry x="-0.1071" y="-3" relative="1" as="geometry">
+            <mxPoint x="3" y="27" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OgAkdvKX0kVkj8nFm4jw-53" value="도보 1분" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.96;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=10;" edge="1" parent="1" source="OgAkdvKX0kVkj8nFm4jw-5" target="OgAkdvKX0kVkj8nFm4jw-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OgAkdvKX0kVkj8nFm4jw-5" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;혜화동로터리&lt;br&gt;01226&lt;br&gt;&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="460" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OgAkdvKX0kVkj8nFm4jw-11" style="orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="OgAkdvKX0kVkj8nFm4jw-6" target="OgAkdvKX0kVkj8nFm4jw-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OgAkdvKX0kVkj8nFm4jw-17" value="도보 4분" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="OgAkdvKX0kVkj8nFm4jw-11">
+          <mxGeometry x="-0.0916" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OgAkdvKX0kVkj8nFm4jw-6" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;창경궁.서울대학...&lt;br&gt;01002&lt;br&gt;&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="650" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OgAkdvKX0kVkj8nFm4jw-24" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="OgAkdvKX0kVkj8nFm4jw-19" target="OgAkdvKX0kVkj8nFm4jw-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OgAkdvKX0kVkj8nFm4jw-27" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="OgAkdvKX0kVkj8nFm4jw-19" target="OgAkdvKX0kVkj8nFm4jw-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OgAkdvKX0kVkj8nFm4jw-28" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="OgAkdvKX0kVkj8nFm4jw-19" target="OgAkdvKX0kVkj8nFm4jw-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OgAkdvKX0kVkj8nFm4jw-51" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.625;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=10;" edge="1" parent="1" source="OgAkdvKX0kVkj8nFm4jw-19" target="OgAkdvKX0kVkj8nFm4jw-47">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OgAkdvKX0kVkj8nFm4jw-52" value="자전거 12분" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="OgAkdvKX0kVkj8nFm4jw-51">
+          <mxGeometry x="-0.1155" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OgAkdvKX0kVkj8nFm4jw-19" value="성균관대정문&lt;br&gt;3422" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="580" y="120" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OgAkdvKX0kVkj8nFm4jw-30" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="OgAkdvKX0kVkj8nFm4jw-20" target="OgAkdvKX0kVkj8nFm4jw-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OgAkdvKX0kVkj8nFm4jw-43" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="OgAkdvKX0kVkj8nFm4jw-20" target="OgAkdvKX0kVkj8nFm4jw-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OgAkdvKX0kVkj8nFm4jw-44" value="도보 9분" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="OgAkdvKX0kVkj8nFm4jw-43">
+          <mxGeometry x="-0.4199" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OgAkdvKX0kVkj8nFm4jw-20" value="성균관대입구사거리&lt;br&gt;3420" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="450" y="240" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OgAkdvKX0kVkj8nFm4jw-32" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="OgAkdvKX0kVkj8nFm4jw-21" target="OgAkdvKX0kVkj8nFm4jw-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OgAkdvKX0kVkj8nFm4jw-41" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="OgAkdvKX0kVkj8nFm4jw-21" target="OgAkdvKX0kVkj8nFm4jw-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OgAkdvKX0kVkj8nFm4jw-42" value="도보 9분" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="OgAkdvKX0kVkj8nFm4jw-41">
+          <mxGeometry x="0.6264" relative="1" as="geometry">
+            <mxPoint x="39" y="-52" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OgAkdvKX0kVkj8nFm4jw-21" value="성대입구사거리&lt;br&gt;358" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="570" y="240" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OgAkdvKX0kVkj8nFm4jw-33" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="OgAkdvKX0kVkj8nFm4jw-22" target="OgAkdvKX0kVkj8nFm4jw-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OgAkdvKX0kVkj8nFm4jw-39" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="OgAkdvKX0kVkj8nFm4jw-22" target="OgAkdvKX0kVkj8nFm4jw-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OgAkdvKX0kVkj8nFm4jw-40" value="도보 6분" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="OgAkdvKX0kVkj8nFm4jw-39">
+          <mxGeometry x="0.1077" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OgAkdvKX0kVkj8nFm4jw-22" value="국립어린이과학관&lt;br&gt;3419" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="690" y="240" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OgAkdvKX0kVkj8nFm4jw-35" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="OgAkdvKX0kVkj8nFm4jw-29" target="OgAkdvKX0kVkj8nFm4jw-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OgAkdvKX0kVkj8nFm4jw-36" value="버스 1분" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="OgAkdvKX0kVkj8nFm4jw-35">
+          <mxGeometry x="0.2627" y="2" relative="1" as="geometry">
+            <mxPoint x="13" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OgAkdvKX0kVkj8nFm4jw-37" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="OgAkdvKX0kVkj8nFm4jw-29" target="OgAkdvKX0kVkj8nFm4jw-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OgAkdvKX0kVkj8nFm4jw-38" value="도보 10분" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="OgAkdvKX0kVkj8nFm4jw-37">
+          <mxGeometry x="-0.2893" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OgAkdvKX0kVkj8nFm4jw-29" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;명륜3가.성대입구&lt;br&gt;01003&lt;br&gt;&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="350" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OgAkdvKX0kVkj8nFm4jw-48" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=10;" edge="1" parent="1" source="OgAkdvKX0kVkj8nFm4jw-45" target="OgAkdvKX0kVkj8nFm4jw-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OgAkdvKX0kVkj8nFm4jw-49" value="자전거 15분" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="OgAkdvKX0kVkj8nFm4jw-48">
+          <mxGeometry x="0.158" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OgAkdvKX0kVkj8nFm4jw-45" value="혜화동 로터리&lt;br&gt;340" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="140" y="410" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OgAkdvKX0kVkj8nFm4jw-50" value="도보 3분" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="OgAkdvKX0kVkj8nFm4jw-47" target="OgAkdvKX0kVkj8nFm4jw-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OgAkdvKX0kVkj8nFm4jw-47" value="창경궁 입구&lt;br&gt;337" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="570" y="790" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
