@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-05T16:23:16.277Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="zKfUzBSTFV-GgdSYHAxn" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-05T16:26:14.582Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="IcLqkGh_brM7NISQTUZG" type="github">
   <diagram id="lXkE4lG7cgBR9JIsJHmm" name="페이지-1">
     <mxGraphModel dx="736" dy="972" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -155,6 +155,11 @@
         <mxCell id="OgAkdvKX0kVkj8nFm4jw-30" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="OgAkdvKX0kVkj8nFm4jw-20" target="OgAkdvKX0kVkj8nFm4jw-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="OgAkdvKX0kVkj8nFm4jw-83" value="도보 1분" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="OgAkdvKX0kVkj8nFm4jw-30">
+          <mxGeometry x="-0.3911" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="OgAkdvKX0kVkj8nFm4jw-43" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="OgAkdvKX0kVkj8nFm4jw-20" target="OgAkdvKX0kVkj8nFm4jw-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -173,6 +178,11 @@
         <mxCell id="OgAkdvKX0kVkj8nFm4jw-32" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="OgAkdvKX0kVkj8nFm4jw-21" target="OgAkdvKX0kVkj8nFm4jw-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="OgAkdvKX0kVkj8nFm4jw-84" value="도보 1분" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="OgAkdvKX0kVkj8nFm4jw-32">
+          <mxGeometry x="-0.1388" y="2" relative="1" as="geometry">
+            <mxPoint x="8" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="OgAkdvKX0kVkj8nFm4jw-41" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="OgAkdvKX0kVkj8nFm4jw-21" target="OgAkdvKX0kVkj8nFm4jw-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -190,6 +200,11 @@
         </mxCell>
         <mxCell id="OgAkdvKX0kVkj8nFm4jw-33" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="OgAkdvKX0kVkj8nFm4jw-22" target="OgAkdvKX0kVkj8nFm4jw-29">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OgAkdvKX0kVkj8nFm4jw-85" value="도보 3분" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="OgAkdvKX0kVkj8nFm4jw-33">
+          <mxGeometry x="0.056" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="OgAkdvKX0kVkj8nFm4jw-39" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="OgAkdvKX0kVkj8nFm4jw-22" target="OgAkdvKX0kVkj8nFm4jw-2">
           <mxGeometry relative="1" as="geometry">
